@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Libro 7.1'
+define service Z_LIBRO_7_1 {
+  expose Z_LIBRO_7_1;
+}
